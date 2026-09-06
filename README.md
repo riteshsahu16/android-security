@@ -222,3 +222,19 @@
    3. `frida-scripts/`
    4. `apk-scripts/`
    5. `automation/`
+
+
+## Each concept could follow:
+Concept
+↓
+Why it matters
+↓
+Vulnerable implementation
+↓
+Exploitation scenario
+↓
+Testing methodology
+↓
+Impact
+↓
+Secure implementation
